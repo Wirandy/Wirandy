@@ -2,12 +2,6 @@
 
 ![header](img/github-header-banner.png)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wirandy/wirandy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wirandy/wirandy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wirandy/wirandy/output/pacman-contribution-graph.svg">
-</picture>
-
 ![anime](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ6ZzR5aWo1N3ZrOWxhZnBqZ2NuY2RrZ3Z3Zzhidmk1NXF2aTA4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif)
 
 #### SKILL
@@ -32,9 +26,3 @@
 
 
 
-
-###
-
-<img src="https://raw.githubusercontent.com/wirandy/wirandy/output/snake.svg" alt="Snake animation" />
-
-###
